@@ -15,46 +15,39 @@ I am thrilled to share my experience of developing a E-Commerce full stack app f
 
 ## Network Architecture
 
-Below is the network architecture of Paytin:
-
-| Network Architecture |
-|----------------------|
-
-| ![Network Image](https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0026.jpg) |
-| ![Network Image](https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0027.jpg) |
-| ![Network Image](https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0028.jpg) |
-| ![Network Image](https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0029.jpg) |
-| ![Network Image](https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0030.jpg) |
-| ![Network Image](https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0031.jpg) |
-| ![Network Image](https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0032.jpg) |
-| ![Network Image](https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0034.jpg) |
-| ![Network Image](https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0035.jpg) |
+<div style="overflow-x: auto; white-space: nowrap; display: flex; justify-content: flex-start;">
+  <img src="https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0026.jpg" alt="Network Image 1" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0027.jpg" alt="Network Image 2" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0028.jpg" alt="Network Image 3" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0029.jpg" alt="Network Image 4" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0030.jpg" alt="Network Image 5" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0031.jpg" alt="Network Image 6" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0032.jpg" alt="Network Image 7" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0033.jpg" alt="Network Image 8" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0034.jpg" alt="Network Image 9" style="width: auto; height: 200px; margin-right: 10px;">
+  <img src="https://github.com/SJA0010/petcare/blob/main/IMG-20240707-WA0035.jpg" alt="Network Image 10" style="width: auto; height: 200px; margin-right: 10px;">
+</div>
 
 ## About Me
 
-Hey, My name is Subhan Abbasi. I'm a professional Flutter full stack developer, expert in Front
-end (web and apps). I have done 15+ Flutter projects. I have master in the skills of hybrid
- application( IOS and Android) with an experience of 2 years as a intern at 7-Skies Solution. During my
- Journey of Software Engineering, I achieved a lot of experiences including leadership skills and
- learnt to differentiate code standards having 2 years experience enables me to read your ideas and
- and create a master-piece out of them. My first priority is your satisfaction. 
+Hey, My name is Subhan Abbasi. I'm a professional Flutter full stack developer, expert in Front end (web and apps). I have done 15+ Flutter projects. I have mastered the skills of hybrid application (iOS and Android) with an experience of 2 years as an intern at 7-Skies Solution. During my Journey of Software Engineering, I achieved a lot of experiences including leadership skills and learned to differentiate code standards. Having 2 years of experience enables me to read your ideas and create a masterpiece out of them. My first priority is your satisfaction. 
 
 ### Contact Information
 
 - **GitHub**: [Your GitHub Profile](https://github.com/SJA0010)
-- **LinkedIn**: [Your LinkedIn Profile](linkedin.com/in/subhan-abbasi-03b01b252)
-- **Email**: MSJA010@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/subhan-abbasi-03b01b252)
+- **Email**: [MSJA010@gmail.com](mailto:MSJA010@gmail.com)
 
 ## How to Get Started
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-github-username/paytin.git
+    git clone https://github.com/your-github-username/pet-care.git
     ```
 
 2. **Navigate to the Project Directory**:
     ```bash
-    cd paytin
+    cd pet-care
     ```
 
 3. **Install Dependencies**:
